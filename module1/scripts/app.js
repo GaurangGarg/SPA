@@ -33,10 +33,5 @@
         $scope.borderColor = {'border-color': 'green'};
       }
     };
-
-    function removeEmpty(arr) {
-
-    }
-
   }
 })();
